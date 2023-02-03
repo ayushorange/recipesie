@@ -1,2 +1,2 @@
-# recipesie
+# recipesite
 Its a static website
